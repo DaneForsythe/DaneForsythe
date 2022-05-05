@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaneForsythe
 - 👀 I’m interested in creating cool and fun projects!
-- 🌱 I’m currently on The Odi Project, I have a little prior Java experience, but stll a beginner. 
+- 🌱 I’m currently on The Odin Project, I have a little prior Java experience, but stll a beginner. 
 - 💞️ I’m looking to collaborate on confusing pieces of code I don't understand.
 
 <!---
